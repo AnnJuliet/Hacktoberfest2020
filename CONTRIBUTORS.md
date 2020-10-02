@@ -46,3 +46,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+ #### Name: [Anna Juliet](https://github.com/AnnJuliet)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [AnnJuliet](https://github.com/AnnJuliet)
